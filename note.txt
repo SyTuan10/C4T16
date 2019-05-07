@@ -4,3 +4,9 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/SyTuan10/C4T16.git
 git push -u origin master
+
+----------------------------
+git add .
+git status
+git commit -m "chu thich cua em"
+git push -u origin master

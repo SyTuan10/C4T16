@@ -1,0 +1,6 @@
+account = input("Ten Tai Khoan : ")
+password = input("Mat Khau : ")
+email = input("Email : ")
+print("Account : ",account)
+print("Password : ",password)
+print("Email : ",email)
