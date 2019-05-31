@@ -1,5 +1,5 @@
-import random
+from random import shuffle
 n = input("Word : ")
 m = list(n)
-random.shuffle(m)
+shuffle(m)
 print(m)
