@@ -1,0 +1,9 @@
+.rect {
+    width: 100px;
+    height: 80px;
+    background-color: aqua;
+    margin: 10px;
+}
+.white {
+    background-color: azure;
+}

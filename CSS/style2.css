@@ -1,0 +1,24 @@
+.uppercase{
+    font-weight: bold;
+    text-align: center;
+    font-size: 100px;
+    line-height: 0px;
+}
+.nd1{
+    line-height: 0;
+}
+.nd2{
+    line-height: 0;
+}
+#h2{
+    font-family: 'Indie Flower', cursive;
+    font-size: 180px;
+    line-height: 0px;
+}
+#p1{
+    font-weight: bold;
+    font-size: 16px;
+}
+#p2{
+    font-size: 20px;
+}
